@@ -1,0 +1,6 @@
+.idea/
+__pycache__/
+.python-version
+
+word-count-data/
+.pytest_cache/
